@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introcsharp\\controllers\\pruebacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|solutionrelative:introcsharp\\controllers\\pruebacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introcsharp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|solutionrelative:introcsharp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introcsharp\\views\\prueba\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|solutionrelative:introcsharp\\views\\prueba\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|c:\\users\\tadeo\\onedrive\\escritorio\\utl\\idgs\\idgs904\\trabajo\\introcsharp\\introcsharp\\views\\prueba\\suma.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|solutionrelative:introcsharp\\views\\prueba\\suma.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|c:\\users\\tadeo\\onedrive\\escritorio\\utl\\idgs\\idgs904\\trabajo\\introcsharp\\introcsharp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|solutionrelative:introcsharp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introcsharp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|solutionrelative:introcsharp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Suma.cshtml",
+              "DocumentMoniker": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introCsharp\\Views\\Prueba\\Suma.cshtml",
+              "RelativeDocumentMoniker": "introCsharp\\Views\\Prueba\\Suma.cshtml",
+              "ToolTip": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introCsharp\\Views\\Prueba\\Suma.cshtml",
+              "RelativeToolTip": "introCsharp\\Views\\Prueba\\Suma.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T00:35:24.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introCsharp\\Views\\Prueba\\Index.cshtml",
+              "RelativeDocumentMoniker": "introCsharp\\Views\\Prueba\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introCsharp\\Views\\Prueba\\Index.cshtml",
+              "RelativeToolTip": "introCsharp\\Views\\Prueba\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T00:21:18.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introCsharp\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "introCsharp\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introCsharp\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "introCsharp\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T00:20:32.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introCsharp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "introCsharp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introCsharp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "introCsharp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T00:18:56.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PruebaController.cs",
+              "DocumentMoniker": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introCsharp\\Controllers\\PruebaController.cs",
+              "RelativeDocumentMoniker": "introCsharp\\Controllers\\PruebaController.cs",
+              "ToolTip": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introCsharp\\Controllers\\PruebaController.cs",
+              "RelativeToolTip": "introCsharp\\Controllers\\PruebaController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T00:16:56.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introCsharp\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "introCsharp\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introCsharp\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "introCsharp\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T00:14:54.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
