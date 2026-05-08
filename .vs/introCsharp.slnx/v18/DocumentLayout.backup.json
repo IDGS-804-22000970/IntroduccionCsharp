@@ -1,26 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\",
+  "WorkspaceRootPath": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\desarrollo\\introCsharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introcsharp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|solutionrelative:introcsharp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|C:\\Users\\tadeo\\OneDrive\\Escritorio\\desarrollo\\introCsharp\\introcsharp\\views\\prueba\\calculardis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|solutionrelative:introcsharp\\views\\prueba\\calculardis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introcsharp\\views\\prueba\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|solutionrelative:introcsharp\\views\\prueba\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|c:\\users\\tadeo\\onedrive\\escritorio\\desarrollo\\introcsharp\\introcsharp\\models\\calculardis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|solutionrelative:introcsharp\\models\\calculardis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|c:\\users\\tadeo\\onedrive\\escritorio\\utl\\idgs\\idgs904\\trabajo\\introcsharp\\introcsharp\\views\\prueba\\suma.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|solutionrelative:introcsharp\\views\\prueba\\suma.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|c:\\users\\tadeo\\onedrive\\escritorio\\desarrollo\\introcsharp\\introcsharp\\views\\multiplicacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|solutionrelative:introcsharp\\views\\multiplicacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introcsharp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|solutionrelative:introcsharp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|c:\\users\\tadeo\\onedrive\\escritorio\\desarrollo\\introcsharp\\introcsharp\\controllers\\multiplicacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|solutionrelative:introcsharp\\controllers\\multiplicacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introcsharp\\controllers\\pruebacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|c:\\users\\tadeo\\onedrive\\escritorio\\desarrollo\\introcsharp\\introcsharp\\controllers\\pruebacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|solutionrelative:introcsharp\\controllers\\pruebacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|c:\\users\\tadeo\\onedrive\\escritorio\\desarrollo\\introcsharp\\introcsharp\\models\\multiplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|solutionrelative:introcsharp\\models\\multiplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|C:\\Users\\tadeo\\OneDrive\\Escritorio\\desarrollo\\introCsharp\\introcsharp\\controllers\\distanciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B60CAD-7271-410F-9A27-E7DDE287D057}|introCsharp\\introCsharp.csproj|solutionrelative:introcsharp\\controllers\\distanciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,80 +41,94 @@
           "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Suma.cshtml",
-              "DocumentMoniker": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introCsharp\\Views\\Prueba\\Suma.cshtml",
-              "RelativeDocumentMoniker": "introCsharp\\Views\\Prueba\\Suma.cshtml",
-              "ToolTip": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introCsharp\\Views\\Prueba\\Suma.cshtml",
-              "RelativeToolTip": "introCsharp\\Views\\Prueba\\Suma.cshtml",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAwB8AAAAhAAAAAAAAAA==",
+              "Title": "Multiplicacion.cshtml",
+              "DocumentMoniker": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\desarrollo\\introCsharp\\introCsharp\\Views\\Multiplicacion.cshtml",
+              "RelativeDocumentMoniker": "introCsharp\\Views\\Multiplicacion.cshtml",
+              "ToolTip": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\desarrollo\\introCsharp\\introCsharp\\Views\\Multiplicacion.cshtml",
+              "RelativeToolTip": "introCsharp\\Views\\Multiplicacion.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-01T00:35:24.878Z",
+              "WhenOpened": "2026-05-08T01:51:46.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introCsharp\\Views\\Prueba\\Index.cshtml",
-              "RelativeDocumentMoniker": "introCsharp\\Views\\Prueba\\Index.cshtml",
-              "ToolTip": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introCsharp\\Views\\Prueba\\Index.cshtml",
-              "RelativeToolTip": "introCsharp\\Views\\Prueba\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-01T00:21:18.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introCsharp\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "introCsharp\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introCsharp\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "introCsharp\\Views\\Home\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-01T00:20:32.499Z",
+              "DocumentIndex": 3,
+              "Title": "MultiplicacionController.cs",
+              "DocumentMoniker": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\desarrollo\\introCsharp\\introCsharp\\Controllers\\MultiplicacionController.cs",
+              "RelativeDocumentMoniker": "introCsharp\\Controllers\\MultiplicacionController.cs",
+              "ToolTip": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\desarrollo\\introCsharp\\introCsharp\\Controllers\\MultiplicacionController.cs",
+              "RelativeToolTip": "introCsharp\\Controllers\\MultiplicacionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T01:51:32.654Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "PruebaController.cs",
-              "DocumentMoniker": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introCsharp\\Controllers\\PruebaController.cs",
+              "DocumentMoniker": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\desarrollo\\introCsharp\\introCsharp\\Controllers\\PruebaController.cs",
               "RelativeDocumentMoniker": "introCsharp\\Controllers\\PruebaController.cs",
-              "ToolTip": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introCsharp\\Controllers\\PruebaController.cs",
+              "ToolTip": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\desarrollo\\introCsharp\\introCsharp\\Controllers\\PruebaController.cs",
               "RelativeToolTip": "introCsharp\\Controllers\\PruebaController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T00:16:56.531Z",
+              "WhenOpened": "2026-05-08T01:51:31.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introCsharp\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "introCsharp\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\UTL\\IDGS\\IDGS904\\trabajo\\introCsharp\\introCsharp\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "introCsharp\\App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAABFAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Multiplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\desarrollo\\introCsharp\\introCsharp\\Models\\Multiplicacion.cs",
+              "RelativeDocumentMoniker": "introCsharp\\Models\\Multiplicacion.cs",
+              "ToolTip": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\desarrollo\\introCsharp\\introCsharp\\Models\\Multiplicacion.cs",
+              "RelativeToolTip": "introCsharp\\Models\\Multiplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T00:14:54.782Z",
+              "WhenOpened": "2026-05-08T01:51:22.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DistanciaController.cs",
+              "DocumentMoniker": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\desarrollo\\introCsharp\\introCsharp\\Controllers\\DistanciaController.cs",
+              "RelativeDocumentMoniker": "introCsharp\\Controllers\\DistanciaController.cs",
+              "ToolTip": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\desarrollo\\introCsharp\\introCsharp\\Controllers\\DistanciaController.cs",
+              "RelativeToolTip": "introCsharp\\Controllers\\DistanciaController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T01:28:29.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalcularDis.cshtml",
+              "DocumentMoniker": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\desarrollo\\introCsharp\\introCsharp\\Views\\Prueba\\CalcularDis.cshtml",
+              "RelativeDocumentMoniker": "introCsharp\\Views\\Prueba\\CalcularDis.cshtml",
+              "ToolTip": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\desarrollo\\introCsharp\\introCsharp\\Views\\Prueba\\CalcularDis.cshtml",
+              "RelativeToolTip": "introCsharp\\Views\\Prueba\\CalcularDis.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-08T01:21:51.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalcularDis.cs",
+              "DocumentMoniker": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\desarrollo\\introCsharp\\introCsharp\\Models\\CalcularDis.cs",
+              "RelativeDocumentMoniker": "introCsharp\\Models\\CalcularDis.cs",
+              "ToolTip": "C:\\Users\\tadeo\\OneDrive\\Escritorio\\desarrollo\\introCsharp\\introCsharp\\Models\\CalcularDis.cs",
+              "RelativeToolTip": "introCsharp\\Models\\CalcularDis.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T01:34:49.245Z",
               "EditorCaption": ""
             }
           ]

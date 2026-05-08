@@ -1,31 +1,33 @@
-﻿
+﻿@model introCsharp.Models.OperasBas
+
 @{
-    ViewBag.Title = "Suma";
+    ViewBag.Title = "Calculos";
 }
 
-<h2>Suma</h2>
+<h2>Calculos</h2>
 
 <div class="container">
     <div class="row">
         <div class="col-lg-6">
             <form action="/" method="post">
-
                 <label for="Num1">Numero1: </label>
-                <input type="text" name="x" value="" />
+                <input type="text" name="Num1" value="" />
                 <br />
 
                 <label for="Num2">Numero2: </label>
-                <input type="text" name="y" value="" />
+                <input type="text" name="Num2" value="" />
                 <br />
 
-                <input type="submit" value="enviar" />
-
+                <input type="submit" value="Enviar" />
             </form>
         </div>
+
         <div class="col-lg-6">
             <br />
-            <h1>La suma es: </h1>
-            <h2>@ViewBag.res</h2>
+            <h1>
+                La suma es:
+                @Html.DisplayFor(model => model.Res)
+            </h1>
         </div>
     </div>
 </div>
