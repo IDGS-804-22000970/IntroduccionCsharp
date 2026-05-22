@@ -193,13 +193,12 @@
     <Content Include="Views\Prueba\Suma.cshtml" />
     <Content Include="Views\Prueba\Calculos.cshtml" />
     <Content Include="Views\Prueba\CalcularDis.cshtml" />
-    <Content Include="Views\Multiplicacion.cshtml" />
+    <Content Include="Views\Multiplicacion\Multiplicacion.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Controllers\Distancia\" />
     <Folder Include="Views\Distancia\" />
-    <Folder Include="Views\Multiplicacion\" />
     <Folder Include="Views\NewFolder1\" />
   </ItemGroup>
   <ItemGroup>
